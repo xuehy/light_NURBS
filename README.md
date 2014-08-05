@@ -6,7 +6,7 @@ It can be used for
 
 1. Point compute(from parameters to coordinates).
 2. Point projection(from coordinates to parameters).
-3. etc.
+3. NURBS curve and surface fitting, etc.
 
 You can read the examples.
 
